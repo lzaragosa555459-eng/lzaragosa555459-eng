@@ -93,7 +93,5 @@ Feel free to explore, star ⭐, or give feedback!
   <img src="https://github-readme-stats.vercel.app/api?username=lzaragosa555459-eng&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzaragosa555459-eng&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=lzaragosa555459-eng&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 
