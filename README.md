@@ -94,6 +94,7 @@ Feel free to explore, star ⭐, or give feedback!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzaragosa555459-eng&layout=compact&theme=green-nur&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzaragosa555459-eng&layout=compact&theme=green-nur&hide_border=true&hide=jupyter%20notebook,tex,makefile" alt="Top Languages" />
 </p>
+
 
