@@ -40,7 +40,7 @@ Feel free to explore, star ⭐, or give feedback!
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
