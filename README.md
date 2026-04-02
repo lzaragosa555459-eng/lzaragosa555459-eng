@@ -93,6 +93,8 @@ Feel free to explore, star ⭐, or give feedback!
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lzaragosa555459-eng&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<img src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=lzaragosa555459-eng&layout=compact&theme=green-nur&hide_border=true&hide=jupyter%20notebook,tex,makefile" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzaragosa555459-eng&layout=compact&theme=green-nur&hide_border=true&langs_count=10&size_weight=0&count_weight=1&hide=jupyter%20notebook,tex,makefile,html,css" alt="Top Languages" />
+</p>
 
 
