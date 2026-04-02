@@ -91,6 +91,3 @@ Feel free to explore, star ⭐, or give feedback!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lzaragosa555459-eng&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<!-- Optional: Add this for visitor count (very popular) -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=lzaragosa555459-eng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> -->
