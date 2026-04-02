@@ -90,8 +90,10 @@ Feel free to explore, star ⭐, or give feedback!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lzaragosa555459-eng&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lzaragosa555459-eng&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=lzaragosa555459-eng&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzaragosa555459-eng&layout=compact&theme=green-nur&hide_border=true" alt="Top Languages" />
+</p>
 
