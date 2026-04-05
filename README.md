@@ -10,7 +10,7 @@
 
 ### 🔭 About Me
 
-- 🔭 I’m currently working on **[HR Management System](https://github.com/lzaragosa555459-eng/HR-Management-System.git)** — a web-based system to streamline employee management.
+- 🔭 I’m currently working on **[HR Management System](https://github.com/lzaragosa555459-eng/FinalHRMSProject.git)** — a web-based system to streamline employee management.
 - 🌱 I’m currently learning **UI/UX Design** and modern web technologies: **HTML, CSS, JavaScript, PHP, Bootstrap**, and more.
 - 💡 Interested in building clean, user-friendly interfaces and efficient backend systems.
 - 📚 2nd-year college student at University of Mindanao.
