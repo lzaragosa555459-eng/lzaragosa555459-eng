@@ -17,7 +17,7 @@
 - 🔭 **Current Focus**: Developing an **[HR Management System](https://github.com/lzaragosa555459-eng/FinalHRMSProject.git)** to streamline employee workflows.
 - 🌱 **Learning Journey**: Diving deep into **Laravel**, **UI/UX Design**, and refining my **PHP** backend logic.
 - 💡 **Philosophy**: Building clean, user-centric interfaces backed by efficient, scalable systems.
-- 📚 **Academic**: 2nd-year CS student at the **University of Mindanao**.
+- 📚 **Academic**: 2nd-year IT student at the **University of Mindanao**.
 
 ### 🛠️ Languages and Tools
 
