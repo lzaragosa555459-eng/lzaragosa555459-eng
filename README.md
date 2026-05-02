@@ -62,4 +62,6 @@
 <p align="right">
   <i>"la baliw."</i>
 </p>
-[![My GIF](https://media.giphy.com/media/your-gif-link/giphy.gif)](https://www.planetminecraft.com/jam/nevergonnagiveyoupnevergonnaletyoudown/)
+<a href="https://www.planetminecraft.com/jam/nevergonnagiveyoupnevergonnaletyoudown/">
+  <img src="https://media.giphy.com/media/your-gif-link/giphy.gif" width="300">
+</a>
