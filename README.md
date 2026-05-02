@@ -60,6 +60,6 @@
 - 👤 **Facebook**: [Liz Zaragosa](https://fb.com/liz.zaragosa.2024)
 
 <p align="right">
-  <i>"la baliw."</i>
+  <i>"hala ka uyy. Nganong DUHA MANI KA SYSTEM AAAAAAAAAAAAAAAAAA"</i>
 </p>
 
