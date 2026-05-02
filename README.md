@@ -60,5 +60,5 @@
 - 👤 **Facebook**: [Liz Zaragosa](https://fb.com/liz.zaragosa.2024)
 
 <p align="right">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Ang coding murag droga. ga hatag og adrenaline sa akong kasing-kasing."</i>
 </p>
