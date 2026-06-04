@@ -58,7 +58,7 @@
 - 📧 **Email**: [l.zaragosa.555459@umindanao.edu.ph](mailto:l.zaragosa.555459@umindanao.edu.ph)
 - 💼 **LinkedIn**: [Liz Zaragosa](https://linkedin.com/in/liz-zaragosa-293b5b338)
 - 👤 **Facebook**: [Liz Zaragosa](https://fb.com/liz.zaragosa.2024)
-
+- 💼 **Portfio**: [Portfolio]([https://fb.com/liz.zaragosa.2024](https://portfolio-updated-git-main-liz-zaragosas-projects.vercel.app/))
 <p align="right">
   <i>":)"</i>
 </p>
