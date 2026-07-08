@@ -15,7 +15,6 @@
 ### 🔭 Quick Summary
 
 - 🔭 **Current Focus**: Developing projects for my portofolio.
-- (https://github.com/lzaragosa555459-eng/Sari-Sari-System-Project.git)** to streamline employee workflows.
 - 🌱 **Learning Journey**: Diving deep into **Laravel**, **UI/UX Design**, and refining my **PHP** backend logic.
 - 💡 **Philosophy**: Building clean, user-centric interfaces backed by efficient, scalable systems.
 - 📚 **Academic**: incoming 3rd-year IT student at the **University of Mindanao**.
