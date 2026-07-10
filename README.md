@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liz T. Zaragosa</h1>
 
-<h3 align="center">Passionate College Student | Aspiring Full-Stack Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Passionate College Student | Aspiring Full-Stack Developer | Programmer Enthusiast</h3>
 
 <p align="center">
   <strong>Turning ideas into functional web applications • Currently building tools that make life easier</strong>
