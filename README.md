@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lzaragosa555459-eng&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=lzaragosa555459-eng&label=PROFILE+VIEWS&color=purple&style=for-the-badge"/>
 </p>
 
 <h1 align="center">
@@ -18,7 +18,7 @@
 
 </pre>
 
-Hi, I'm <span style="color:red">Liz T. Zaragosa</span> 👋
+Hi, I'm <span style="color:purple">Liz T. Zaragosa</span> 👋
 
 </h1>
 
