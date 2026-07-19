@@ -1,11 +1,18 @@
+<p align="center">
+  <img
+    src="images/banner.png"
+    alt="Liz T. Zaragosa Banner"
+    width="100%"
+  />
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=999999&color=C792EA&center=true&vCenter=true&width=1000&lines=HI+THERE!+I'M+LIZ+T.+ZARAGOSA"/>
+  <img src="https://komarev.com/ghpvc/?username=lzaragosa555459-eng&label=PROFILE+VIEWS&color=C792EA&style=for-the-badge"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Incoming+3rd-Year+BSIT+Student;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=1200&color=F7E26B&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Incoming+3rd-Year+BSIT+Student;Future+Cloud+Engineer" />
   </a>
 </p>
 
