@@ -1,133 +1,95 @@
-<p align="center">
-  <img
-    src="images/banner.png"
-    alt="Liz T. Zaragosa Banner"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lzaragosa555459-eng&label=PROFILE+VIEWS&color=C792EA&style=for-the-badge"/>
-</p>
+<h1 align="center">Hi there, I'm Liz T. Zaragosa 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=1200&color=F7E26B&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Incoming+3rd-Year+BSIT+Student;Future+Cloud+Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Incoming+3rd-Year+BSIT+Student;Always+Learning+New+Technologies" />
   </a>
+</p>
+
+<p align="center">
+  Passionate about building scalable web applications, solving real-world problems, and continuously improving as a developer.
 </p>
 
 ---
 
-# > whoami
+# 👨‍💻 About Me
 
-```bash
-Name        : Liz T. Zaragosa
-Education   : BS Information Technology
-University  : University of Mindanao
-Location    : Philippines 🇵🇭
-Role        : Student Developer
-Goal        : Software Engineer → Cloud Engineer
-```
+- 🎓 Incoming **3rd Year BSIT** Student at **University of Mindanao**
+- 💻 Currently building my **Barangay Community Problem Monitoring System**
+- 🌱 Learning **Laravel, React, REST APIs, Data Structures & Algorithms**
+- 🎯 Goal: Become a **Software Engineer** and eventually specialize in **Cloud Engineering**
+- 📚 Always curious about how things work under the hood
 
 ---
 
-# > about_me
-
-```yaml
-currently_working_on:
-  - Barangay Community Problem Monitoring System
-
-currently_learning:
-  - Laravel
-  - React
-  - REST APIs
-  - Docker
-  - Data Structures
-  - Algorithms
-  - Networking
-
-interests:
-  - Full Stack Development
-  - Backend Development
-  - Cloud Computing
-  - UI Design
-```
-
----
-
-# > tech_stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-# > current_project
+# 🚀 Current Project
 
 ## 🏘 Barangay Community Problem Monitoring System
 
-A web-based system that allows citizens to report community issues while helping barangay officials monitor, verify, and resolve incidents efficiently.
+A web-based platform that allows citizens to report community issues while helping barangay officials monitor, verify, and resolve reports efficiently.
 
-### Features
+### Tech Stack
 
-- 📍 Interactive Heatmap
-- 🗺 Incident Mapping
-- 📊 Analytics Dashboard
-- 👥 User Management
-- 🏘 Barangay Management
-- 📂 Problem Categories
-- 🔔 Report Verification
-- 📱 Mobile Responsive UI
+![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel)
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![PHP](https://img.shields.io/badge/PHP-8.4-purple?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![Sanctum](https://img.shields.io/badge/Laravel-Sanctum-red?logo=laravel)
+![Google Maps](https://img.shields.io/badge/Google-Maps-green?logo=googlemaps)
 
 ---
 
-# > currently_learning
+# 🛠 Languages & Technologies
 
-```text
-██████████████████████░░ Laravel
-███████████████████░░░░ React
-████████████████░░░░░░ Docker
-█████████████░░░░░░░░░ Cloud
-██████████░░░░░░░░░░░░ DSA
-████████░░░░░░░░░░░░░░ Networking
-```
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-8.4-purple?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel)
+![REST API](https://img.shields.io/badge/REST-API-green)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
 
 ---
 
-# > certifications
+# 📚 Currently Learning
 
-🏆 Java Programming (Certiport)
-
-🏆 Database (Certiport)
-
-🏆 HTML & CSS (Certiport)
+- 📌 Object-Oriented Programming
+- 📌 Data Structures
+- 📌 Algorithms
+- 📌 Networking
+- 📌 Laravel Best Practices
+- 📌 React
+- 📌 Docker
+- 📌 Cloud Computing
 
 ---
 
-# > github_stats
+# 🏆 Certifications
+
+- ☕ Java Programming (Certiport)
+- 🗄 Database (Certiport)
+- 🌐 HTML & CSS (Certiport)
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -145,65 +107,39 @@ A web-based system that allows citizens to report community issues while helping
 
 ---
 
-# > contribution_graph
+# 🎯 2026 Goals
 
-[![Liz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzaragosa555459-eng&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# > goals_2026
-
-```text
-[ ] Finish Barangay Monitoring System
-[✔] Learn Laravel + React
-[ ] Master Data Structures
-[ ] Learn Docker
-[ ] Learn AWS
-[ ] Build Portfolio
-[ ] Get Software Engineering Internship
-```
+- ✅ Finish Barangay Community Problem Monitoring System
+- ✅ Learn Data Structures & Algorithms
+- ✅ Master Laravel + React
+- ✅ Learn Docker
+- ✅ Build an impressive portfolio
+- ✅ Land my first Software Engineering internship
 
 ---
 
-# > connect
+# 📫 Connect with Me
 
-📧 Email
+📧 **Email**
 
-```
 l.zaragosa.555459@umindanao.edu.ph
-```
 
-💼 LinkedIn
+💼 **LinkedIn**
 
-```
 https://linkedin.com/in/liz-zaragosa-293b5b338
-```
 
-🌐 Portfolio
+🌐 **Portfolio**
 
-```
 https://portfolio-updated-git-main-liz-zaragosas-projects.vercel.app/
-```
 
-📘 Facebook
+📘 **Facebook**
 
-```
 https://fb.com/liz.zaragosa.2024
-```
 
 ---
 
 <p align="center">
 
-```text
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
-
-### ⭐ "Every expert was once a beginner who refused to give up."
+> *"Every expert was once a beginner who refused to give up."*
 
 </p>
