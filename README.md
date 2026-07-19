@@ -163,34 +163,6 @@ A web-based system that allows citizens to report community issues while helping
 
 ---
 
-# > contribution_snake
-
-> Enable this after setting up GitHub Actions.
-
-```md
-![Snake animation](https://github.com/lzaragosa555459-eng/lzaragosa555459-eng/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
-# > wakatime
-
-> Coming Soon...
-
-```text
-PHP          ████████████████ 45%
-
-React        ████████████     30%
-
-JavaScript   ███████          15%
-
-CSS          ████              7%
-
-Other        ██                3%
-```
-
----
-
 # > goals_2026
 
 ```text
