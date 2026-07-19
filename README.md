@@ -166,10 +166,10 @@ A web-based system that allows citizens to report community issues while helping
 # > goals_2026
 
 ```text
-[✔] Finish Barangay Monitoring System
+[ ] Finish Barangay Monitoring System
 [✔] Learn Laravel + React
-[✔] Master Data Structures
-[✔] Learn Docker
+[ ] Master Data Structures
+[ ] Learn Docker
 [ ] Learn AWS
 [ ] Build Portfolio
 [ ] Get Software Engineering Internship
