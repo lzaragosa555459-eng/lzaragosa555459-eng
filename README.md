@@ -1,10 +1,8 @@
-<h1 align="center">
-  <code style="color:#ff4d4d">
-    █▀▀ █   ▀█▀ █░█ █▀▀ █▀█ █▀▀ █ 
-    <br>
-    Hi there, I'm Liz T. Zaragosa 👋
-  </code>
-</h1>
+<h1 align="center">Hi there, I'm Liz T. Zaragosa 👋</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Software%20Engineer-ff3b3b?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
