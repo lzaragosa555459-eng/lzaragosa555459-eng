@@ -3,29 +3,19 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lzaragosa555459-eng&label=PROFILE+VIEWS&color=purple&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Hi,%20I'm%20Liz%20T.%20Zaragosa&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<h1 align="center">
-<pre>
-
-██╗     ██╗███████╗
-██║     ██║╚══███╔╝
-██║     ██║  ███╔╝
-██║     ██║ ███╔╝
-███████╗██║███████╗
-╚══════╝╚═╝╚══════╝
-
-</pre>
-
-Hi, I'm <span style="color:purple">Liz T. Zaragosa</span> 👋
-
-</h1>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1200&color=FF4D4D&center=true&vCenter=true&width=800&lines=Incoming+3rd+Year+BSIT+Student;Aspiring+Software+Engineer;Future+Cloud+Engineer;Laravel+%7C+React+Developer;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=999999&color=C792EA&center=true&vCenter=true&width=900&lines=HI+THERE!+I'M+LIZ+T.+ZARAGOSA"/>
 
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Incoming+3rd-Year+BSIT+Student;Always+Learning+New+Technologies" />
+  </a>
 </p>
 
 ---
