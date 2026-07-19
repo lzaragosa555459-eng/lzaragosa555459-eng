@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm Liz T. Zaragosa 👋</h1>
+<h1 align="center">
+  <code style="color:#ff4d4d">
+    █▀▀ █   ▀█▀ █░█ █▀▀ █▀█ █▀▀ █ 
+    <br>
+    Hi there, I'm Liz T. Zaragosa 👋
+  </code>
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
